@@ -1,0 +1,472 @@
+
+Active Connections
+
+  Proto  Local Address          Foreign Address        State
+  TCP    0.0.0.0:135            0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:445            0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:554            0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:2861           0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:2869           0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:5357           0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:10243          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:26143          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:27036          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:27275          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:47984          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:47989          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:48010          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49152          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49153          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49154          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49161          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49164          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49165          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49166          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49169          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49204          0.0.0.0:0              LISTENING
+  TCP    127.0.0.1:5354         0.0.0.0:0              LISTENING
+  TCP    127.0.0.1:5354         127.0.0.1:49162        ESTABLISHED
+  TCP    127.0.0.1:5354         127.0.0.1:49163        ESTABLISHED
+  TCP    127.0.0.1:5939         0.0.0.0:0              LISTENING
+  TCP    127.0.0.1:5939         127.0.0.1:49222        ESTABLISHED
+  TCP    127.0.0.1:9990         0.0.0.0:0              LISTENING
+  TCP    127.0.0.1:27015        0.0.0.0:0              LISTENING
+  TCP    127.0.0.1:27275        0.0.0.0:0              LISTENING
+  TCP    127.0.0.1:49155        127.0.0.1:49156        ESTABLISHED
+  TCP    127.0.0.1:49156        127.0.0.1:49155        ESTABLISHED
+  TCP    127.0.0.1:49157        0.0.0.0:0              LISTENING
+  TCP    127.0.0.1:49158        127.0.0.1:49159        ESTABLISHED
+  TCP    127.0.0.1:49159        127.0.0.1:49158        ESTABLISHED
+  TCP    127.0.0.1:49160        0.0.0.0:0              LISTENING
+  TCP    127.0.0.1:49162        127.0.0.1:5354         ESTABLISHED
+  TCP    127.0.0.1:49163        127.0.0.1:5354         ESTABLISHED
+  TCP    127.0.0.1:49221        127.0.0.1:65001        ESTABLISHED
+  TCP    127.0.0.1:49222        127.0.0.1:5939         ESTABLISHED
+  TCP    127.0.0.1:64121        127.0.0.1:9999         SYN_SENT
+  TCP    127.0.0.1:65000        0.0.0.0:0              LISTENING
+  TCP    127.0.0.1:65001        0.0.0.0:0              LISTENING
+  TCP    127.0.0.1:65001        127.0.0.1:49221        ESTABLISHED
+  TCP    192.168.1.6:139        0.0.0.0:0              LISTENING
+  TCP    192.168.1.6:49225      159.8.209.220:5938     ESTABLISHED
+  TCP    192.168.1.6:58525      64.233.188.188:5228    ESTABLISHED
+  TCP    192.168.1.6:58545      172.217.25.174:443     ESTABLISHED
+  TCP    192.168.1.6:58569      179.60.193.3:443       ESTABLISHED
+  TCP    192.168.1.6:58571      179.60.193.36:443      ESTABLISHED
+  TCP    192.168.1.6:58705      172.217.25.174:443     ESTABLISHED
+  TCP    192.168.1.6:58724      216.58.199.78:443      ESTABLISHED
+  TCP    192.168.1.6:59049      172.217.25.163:443     ESTABLISHED
+  TCP    192.168.1.6:59053      172.217.25.174:443     ESTABLISHED
+  TCP    192.168.1.6:63544      134.170.188.139:443    TIME_WAIT
+  TCP    192.168.1.6:63546      134.170.188.139:443    TIME_WAIT
+  TCP    192.168.1.6:63556      66.235.138.193:443     TIME_WAIT
+  TCP    192.168.1.6:63699      111.221.29.254:443     ESTABLISHED
+  TCP    192.168.1.6:63726      172.217.25.163:443     ESTABLISHED
+  TCP    192.168.1.6:63852      77.234.41.23:80        ESTABLISHED
+  TCP    192.168.1.6:63854      172.217.25.174:443     ESTABLISHED
+  TCP    192.168.1.6:63859      172.217.25.164:443     ESTABLISHED
+  TCP    192.168.1.6:63860      172.217.25.174:443     ESTABLISHED
+  TCP    192.168.1.6:63862      172.217.25.165:443     ESTABLISHED
+  TCP    192.168.1.6:63864      172.217.25.161:443     ESTABLISHED
+  TCP    192.168.1.6:63866      172.217.25.174:443     ESTABLISHED
+  TCP    192.168.1.6:63867      172.217.25.173:443     ESTABLISHED
+  TCP    192.168.1.6:63868      172.217.25.174:443     ESTABLISHED
+  TCP    192.168.1.6:63869      172.217.25.170:443     ESTABLISHED
+  TCP    192.168.1.6:63870      172.217.25.170:443     ESTABLISHED
+  TCP    192.168.1.6:63872      74.125.23.189:443      ESTABLISHED
+  TCP    192.168.1.6:63873      172.217.25.174:443     ESTABLISHED
+  TCP    192.168.1.6:63874      172.217.25.162:443     ESTABLISHED
+  TCP    192.168.1.6:63880      172.217.25.161:443     ESTABLISHED
+  TCP    192.168.1.6:63881      216.58.199.78:443      ESTABLISHED
+  TCP    192.168.1.6:63884      172.217.25.163:443     ESTABLISHED
+  TCP    192.168.1.6:63887      216.58.212.131:443     ESTABLISHED
+  TCP    192.168.1.6:63919      203.213.33.72:80       TIME_WAIT
+  TCP    192.168.1.6:64013      172.217.25.174:443     ESTABLISHED
+  TCP    192.168.1.6:64018      172.217.25.174:443     ESTABLISHED
+  TCP    192.168.1.6:64045      68.232.45.201:443      ESTABLISHED
+  TCP    192.168.1.6:64055      68.232.45.201:443      ESTABLISHED
+  TCP    192.168.1.6:64059      66.33.199.148:80       TIME_WAIT
+  TCP    192.168.1.6:64060      66.33.199.148:80       TIME_WAIT
+  TCP    192.168.1.6:64064      216.58.199.66:80       TIME_WAIT
+  TCP    192.168.1.6:64065      216.58.199.66:80       TIME_WAIT
+  TCP    192.168.1.6:64066      216.58.199.66:80       TIME_WAIT
+  TCP    192.168.1.6:64067      192.0.76.3:80          TIME_WAIT
+  TCP    192.168.1.6:64068      192.0.76.3:80          TIME_WAIT
+  TCP    192.168.1.6:64069      192.0.76.3:80          ESTABLISHED
+  TCP    192.168.1.6:64070      172.217.25.168:80      ESTABLISHED
+  TCP    192.168.1.6:64074      216.58.199.78:443      ESTABLISHED
+  TCP    192.168.1.6:64075      179.60.193.7:443       ESTABLISHED
+  TCP    192.168.1.6:64077      66.33.199.148:80       TIME_WAIT
+  TCP    192.168.1.6:64078      192.0.76.3:80          ESTABLISHED
+  TCP    192.168.1.6:64080      104.244.42.200:443     ESTABLISHED
+  TCP    192.168.1.6:64101      199.96.57.6:443        TIME_WAIT
+  TCP    192.168.1.6:64118      104.244.43.113:443     ESTABLISHED
+  TCP    192.168.111.1:139      0.0.0.0:0              LISTENING
+  TCP    192.168.136.1:139      0.0.0.0:0              LISTENING
+  TCP    192.168.137.1:139      0.0.0.0:0              LISTENING
+  TCP    192.168.137.1:49172    0.0.0.0:0              LISTENING
+  TCP    [::]:135               [::]:0                 LISTENING
+  TCP    [::]:445               [::]:0                 LISTENING
+  TCP    [::]:554               [::]:0                 LISTENING
+  TCP    [::]:2861              [::]:0                 LISTENING
+  TCP    [::]:2869              [::]:0                 LISTENING
+  TCP    [::]:3587              [::]:0                 LISTENING
+  TCP    [::]:5357              [::]:0                 LISTENING
+  TCP    [::]:10243             [::]:0                 LISTENING
+  TCP    [::]:26143             [::]:0                 LISTENING
+  TCP    [::]:49152             [::]:0                 LISTENING
+  TCP    [::]:49153             [::]:0                 LISTENING
+  TCP    [::]:49154             [::]:0                 LISTENING
+  TCP    [::]:49161             [::]:0                 LISTENING
+  TCP    [::]:49164             [::]:0                 LISTENING
+  TCP    [::]:49165             [::]:0                 LISTENING
+  TCP    [::]:49166             [::]:0                 LISTENING
+  TCP    [::]:49169             [::]:0                 LISTENING
+  TCP    [::]:49204             [::]:0                 LISTENING
+  TCP    [::1]:27275            [::]:0                 LISTENING
+  TCP    [::1]:49165            [::1]:58990            ESTABLISHED
+  TCP    [::1]:49165            [::1]:59034            ESTABLISHED
+  TCP    [::1]:49165            [::1]:59500            ESTABLISHED
+  TCP    [::1]:49165            [::1]:63961            ESTABLISHED
+  TCP    [::1]:49165            [::1]:63965            ESTABLISHED
+  TCP    [::1]:49165            [::1]:63984            ESTABLISHED
+  TCP    [::1]:49165            [::1]:63985            ESTABLISHED
+  TCP    [::1]:49165            [::1]:64038            ESTABLISHED
+  TCP    [::1]:49165            [::1]:64040            ESTABLISHED
+  TCP    [::1]:49165            [::1]:64041            ESTABLISHED
+  TCP    [::1]:49165            [::1]:64050            ESTABLISHED
+  TCP    [::1]:49166            [::1]:63936            ESTABLISHED
+  TCP    [::1]:49166            [::1]:63937            ESTABLISHED
+  TCP    [::1]:49166            [::1]:63938            ESTABLISHED
+  TCP    [::1]:49166            [::1]:63939            ESTABLISHED
+  TCP    [::1]:49166            [::1]:63946            ESTABLISHED
+  TCP    [::1]:49166            [::1]:63950            ESTABLISHED
+  TCP    [::1]:49166            [::1]:63951            ESTABLISHED
+  TCP    [::1]:49166            [::1]:63954            ESTABLISHED
+  TCP    [::1]:49166            [::1]:63955            ESTABLISHED
+  TCP    [::1]:49166            [::1]:63958            ESTABLISHED
+  TCP    [::1]:49166            [::1]:63959            ESTABLISHED
+  TCP    [::1]:49166            [::1]:63963            ESTABLISHED
+  TCP    [::1]:49166            [::1]:63964            ESTABLISHED
+  TCP    [::1]:49166            [::1]:63968            ESTABLISHED
+  TCP    [::1]:49166            [::1]:63969            ESTABLISHED
+  TCP    [::1]:49166            [::1]:63970            ESTABLISHED
+  TCP    [::1]:49166            [::1]:63975            ESTABLISHED
+  TCP    [::1]:49166            [::1]:63976            ESTABLISHED
+  TCP    [::1]:49166            [::1]:63978            ESTABLISHED
+  TCP    [::1]:49166            [::1]:63980            ESTABLISHED
+  TCP    [::1]:49166            [::1]:63981            ESTABLISHED
+  TCP    [::1]:49166            [::1]:63982            ESTABLISHED
+  TCP    [::1]:49166            [::1]:63983            ESTABLISHED
+  TCP    [::1]:49166            [::1]:64016            ESTABLISHED
+  TCP    [::1]:49166            [::1]:64017            ESTABLISHED
+  TCP    [::1]:49166            [::1]:64021            ESTABLISHED
+  TCP    [::1]:49166            [::1]:64022            ESTABLISHED
+  TCP    [::1]:49166            [::1]:64025            ESTABLISHED
+  TCP    [::1]:49166            [::1]:64026            ESTABLISHED
+  TCP    [::1]:49166            [::1]:64029            ESTABLISHED
+  TCP    [::1]:49166            [::1]:64030            ESTABLISHED
+  TCP    [::1]:49166            [::1]:64124            ESTABLISHED
+  TCP    [::1]:49166            [::1]:64125            ESTABLISHED
+  TCP    [::1]:49166            [::1]:64128            ESTABLISHED
+  TCP    [::1]:49166            [::1]:64129            ESTABLISHED
+  TCP    [::1]:49166            [::1]:64132            ESTABLISHED
+  TCP    [::1]:49166            [::1]:64133            ESTABLISHED
+  TCP    [::1]:49166            [::1]:64136            ESTABLISHED
+  TCP    [::1]:49166            [::1]:64137            ESTABLISHED
+  TCP    [::1]:49166            [::1]:64140            ESTABLISHED
+  TCP    [::1]:49166            [::1]:64141            ESTABLISHED
+  TCP    [::1]:49166            [::1]:64144            ESTABLISHED
+  TCP    [::1]:49166            [::1]:64145            ESTABLISHED
+  TCP    [::1]:49166            [::1]:64148            ESTABLISHED
+  TCP    [::1]:49166            [::1]:64149            ESTABLISHED
+  TCP    [::1]:49456            [::]:0                 LISTENING
+  TCP    [::1]:58990            [::1]:49165            ESTABLISHED
+  TCP    [::1]:59034            [::1]:49165            ESTABLISHED
+  TCP    [::1]:59500            [::1]:49165            ESTABLISHED
+  TCP    [::1]:63734            [::1]:49165            TIME_WAIT
+  TCP    [::1]:63736            [::1]:49165            TIME_WAIT
+  TCP    [::1]:63737            [::1]:49165            TIME_WAIT
+  TCP    [::1]:63745            [::1]:49166            TIME_WAIT
+  TCP    [::1]:63746            [::1]:49166            TIME_WAIT
+  TCP    [::1]:63747            [::1]:49166            TIME_WAIT
+  TCP    [::1]:63748            [::1]:49166            TIME_WAIT
+  TCP    [::1]:63751            [::1]:49166            TIME_WAIT
+  TCP    [::1]:63752            [::1]:49166            TIME_WAIT
+  TCP    [::1]:63755            [::1]:49166            TIME_WAIT
+  TCP    [::1]:63758            [::1]:49166            TIME_WAIT
+  TCP    [::1]:63759            [::1]:49166            TIME_WAIT
+  TCP    [::1]:63762            [::1]:49166            TIME_WAIT
+  TCP    [::1]:63763            [::1]:49166            TIME_WAIT
+  TCP    [::1]:63766            [::1]:49166            TIME_WAIT
+  TCP    [::1]:63767            [::1]:49166            TIME_WAIT
+  TCP    [::1]:63770            [::1]:49165            TIME_WAIT
+  TCP    [::1]:63771            [::1]:49166            TIME_WAIT
+  TCP    [::1]:63772            [::1]:49166            TIME_WAIT
+  TCP    [::1]:63773            [::1]:49165            TIME_WAIT
+  TCP    [::1]:63777            [::1]:49166            TIME_WAIT
+  TCP    [::1]:63778            [::1]:49166            TIME_WAIT
+  TCP    [::1]:63779            [::1]:49166            TIME_WAIT
+  TCP    [::1]:63782            [::1]:49166            TIME_WAIT
+  TCP    [::1]:63783            [::1]:49166            TIME_WAIT
+  TCP    [::1]:63788            [::1]:49166            TIME_WAIT
+  TCP    [::1]:63789            [::1]:49166            TIME_WAIT
+  TCP    [::1]:63790            [::1]:49166            TIME_WAIT
+  TCP    [::1]:63791            [::1]:49166            TIME_WAIT
+  TCP    [::1]:63792            [::1]:49165            TIME_WAIT
+  TCP    [::1]:63793            [::1]:49165            TIME_WAIT
+  TCP    [::1]:63805            [::1]:49165            TIME_WAIT
+  TCP    [::1]:63826            [::1]:49166            TIME_WAIT
+  TCP    [::1]:63827            [::1]:49166            TIME_WAIT
+  TCP    [::1]:63838            [::1]:49166            TIME_WAIT
+  TCP    [::1]:63839            [::1]:49166            TIME_WAIT
+  TCP    [::1]:63842            [::1]:49166            TIME_WAIT
+  TCP    [::1]:63843            [::1]:49166            TIME_WAIT
+  TCP    [::1]:63846            [::1]:49166            TIME_WAIT
+  TCP    [::1]:63847            [::1]:49166            TIME_WAIT
+  TCP    [::1]:63850            [::1]:49166            TIME_WAIT
+  TCP    [::1]:63851            [::1]:49166            TIME_WAIT
+  TCP    [::1]:63934            [::1]:49161            TIME_WAIT
+  TCP    [::1]:63935            [::1]:49161            TIME_WAIT
+  TCP    [::1]:63936            [::1]:49166            ESTABLISHED
+  TCP    [::1]:63937            [::1]:49166            ESTABLISHED
+  TCP    [::1]:63938            [::1]:49166            ESTABLISHED
+  TCP    [::1]:63939            [::1]:49166            ESTABLISHED
+  TCP    [::1]:63940            [::1]:49161            TIME_WAIT
+  TCP    [::1]:63941            [::1]:49161            TIME_WAIT
+  TCP    [::1]:63942            [::1]:49166            TIME_WAIT
+  TCP    [::1]:63943            [::1]:49166            TIME_WAIT
+  TCP    [::1]:63944            [::1]:49161            TIME_WAIT
+  TCP    [::1]:63945            [::1]:49161            TIME_WAIT
+  TCP    [::1]:63946            [::1]:49166            ESTABLISHED
+  TCP    [::1]:63948            [::1]:49161            TIME_WAIT
+  TCP    [::1]:63949            [::1]:49161            TIME_WAIT
+  TCP    [::1]:63950            [::1]:49166            ESTABLISHED
+  TCP    [::1]:63951            [::1]:49166            ESTABLISHED
+  TCP    [::1]:63952            [::1]:49161            TIME_WAIT
+  TCP    [::1]:63953            [::1]:49161            TIME_WAIT
+  TCP    [::1]:63954            [::1]:49166            ESTABLISHED
+  TCP    [::1]:63955            [::1]:49166            ESTABLISHED
+  TCP    [::1]:63956            [::1]:49161            TIME_WAIT
+  TCP    [::1]:63957            [::1]:49161            TIME_WAIT
+  TCP    [::1]:63958            [::1]:49166            ESTABLISHED
+  TCP    [::1]:63959            [::1]:49166            ESTABLISHED
+  TCP    [::1]:63960            [::1]:49161            TIME_WAIT
+  TCP    [::1]:63961            [::1]:49165            ESTABLISHED
+  TCP    [::1]:63962            [::1]:49161            TIME_WAIT
+  TCP    [::1]:63963            [::1]:49166            ESTABLISHED
+  TCP    [::1]:63964            [::1]:49166            ESTABLISHED
+  TCP    [::1]:63965            [::1]:49165            ESTABLISHED
+  TCP    [::1]:63966            [::1]:49161            TIME_WAIT
+  TCP    [::1]:63967            [::1]:49161            TIME_WAIT
+  TCP    [::1]:63968            [::1]:49166            ESTABLISHED
+  TCP    [::1]:63969            [::1]:49166            ESTABLISHED
+  TCP    [::1]:63970            [::1]:49166            ESTABLISHED
+  TCP    [::1]:63971            [::1]:49161            TIME_WAIT
+  TCP    [::1]:63972            [::1]:49161            TIME_WAIT
+  TCP    [::1]:63973            [::1]:49161            TIME_WAIT
+  TCP    [::1]:63974            [::1]:49161            TIME_WAIT
+  TCP    [::1]:63975            [::1]:49166            ESTABLISHED
+  TCP    [::1]:63976            [::1]:49166            ESTABLISHED
+  TCP    [::1]:63977            [::1]:49161            TIME_WAIT
+  TCP    [::1]:63978            [::1]:49166            ESTABLISHED
+  TCP    [::1]:63979            [::1]:49161            TIME_WAIT
+  TCP    [::1]:63980            [::1]:49166            ESTABLISHED
+  TCP    [::1]:63981            [::1]:49166            ESTABLISHED
+  TCP    [::1]:63982            [::1]:49166            ESTABLISHED
+  TCP    [::1]:63983            [::1]:49166            ESTABLISHED
+  TCP    [::1]:63984            [::1]:49165            ESTABLISHED
+  TCP    [::1]:63985            [::1]:49165            ESTABLISHED
+  TCP    [::1]:63987            [::1]:49161            TIME_WAIT
+  TCP    [::1]:63988            [::1]:49161            TIME_WAIT
+  TCP    [::1]:63989            [::1]:49161            TIME_WAIT
+  TCP    [::1]:63990            [::1]:49161            TIME_WAIT
+  TCP    [::1]:63991            [::1]:49161            TIME_WAIT
+  TCP    [::1]:63992            [::1]:49161            TIME_WAIT
+  TCP    [::1]:63993            [::1]:49161            TIME_WAIT
+  TCP    [::1]:63994            [::1]:49161            TIME_WAIT
+  TCP    [::1]:64000            [::1]:49161            TIME_WAIT
+  TCP    [::1]:64001            [::1]:49161            TIME_WAIT
+  TCP    [::1]:64005            [::1]:49161            TIME_WAIT
+  TCP    [::1]:64006            [::1]:49161            TIME_WAIT
+  TCP    [::1]:64007            [::1]:49161            TIME_WAIT
+  TCP    [::1]:64008            [::1]:49161            TIME_WAIT
+  TCP    [::1]:64009            [::1]:49161            TIME_WAIT
+  TCP    [::1]:64010            [::1]:49161            TIME_WAIT
+  TCP    [::1]:64011            [::1]:49161            TIME_WAIT
+  TCP    [::1]:64012            [::1]:49161            TIME_WAIT
+  TCP    [::1]:64014            [::1]:49161            TIME_WAIT
+  TCP    [::1]:64015            [::1]:49161            TIME_WAIT
+  TCP    [::1]:64016            [::1]:49166            ESTABLISHED
+  TCP    [::1]:64017            [::1]:49166            ESTABLISHED
+  TCP    [::1]:64019            [::1]:49161            TIME_WAIT
+  TCP    [::1]:64020            [::1]:49161            TIME_WAIT
+  TCP    [::1]:64021            [::1]:49166            ESTABLISHED
+  TCP    [::1]:64022            [::1]:49166            ESTABLISHED
+  TCP    [::1]:64023            [::1]:49161            TIME_WAIT
+  TCP    [::1]:64024            [::1]:49161            TIME_WAIT
+  TCP    [::1]:64025            [::1]:49166            ESTABLISHED
+  TCP    [::1]:64026            [::1]:49166            ESTABLISHED
+  TCP    [::1]:64027            [::1]:49161            TIME_WAIT
+  TCP    [::1]:64028            [::1]:49161            TIME_WAIT
+  TCP    [::1]:64029            [::1]:49166            ESTABLISHED
+  TCP    [::1]:64030            [::1]:49166            ESTABLISHED
+  TCP    [::1]:64038            [::1]:49165            ESTABLISHED
+  TCP    [::1]:64040            [::1]:49165            ESTABLISHED
+  TCP    [::1]:64041            [::1]:49165            ESTABLISHED
+  TCP    [::1]:64050            [::1]:49165            ESTABLISHED
+  TCP    [::1]:64122            [::1]:49161            TIME_WAIT
+  TCP    [::1]:64123            [::1]:49161            TIME_WAIT
+  TCP    [::1]:64124            [::1]:49166            ESTABLISHED
+  TCP    [::1]:64125            [::1]:49166            ESTABLISHED
+  TCP    [::1]:64126            [::1]:49161            TIME_WAIT
+  TCP    [::1]:64127            [::1]:49161            TIME_WAIT
+  TCP    [::1]:64128            [::1]:49166            ESTABLISHED
+  TCP    [::1]:64129            [::1]:49166            ESTABLISHED
+  TCP    [::1]:64130            [::1]:49161            TIME_WAIT
+  TCP    [::1]:64131            [::1]:49161            TIME_WAIT
+  TCP    [::1]:64132            [::1]:49166            ESTABLISHED
+  TCP    [::1]:64133            [::1]:49166            ESTABLISHED
+  TCP    [::1]:64134            [::1]:49161            TIME_WAIT
+  TCP    [::1]:64135            [::1]:49161            TIME_WAIT
+  TCP    [::1]:64136            [::1]:49166            ESTABLISHED
+  TCP    [::1]:64137            [::1]:49166            ESTABLISHED
+  TCP    [::1]:64138            [::1]:49161            TIME_WAIT
+  TCP    [::1]:64139            [::1]:49161            TIME_WAIT
+  TCP    [::1]:64140            [::1]:49166            ESTABLISHED
+  TCP    [::1]:64141            [::1]:49166            ESTABLISHED
+  TCP    [::1]:64142            [::1]:49161            TIME_WAIT
+  TCP    [::1]:64143            [::1]:49161            TIME_WAIT
+  TCP    [::1]:64144            [::1]:49166            ESTABLISHED
+  TCP    [::1]:64145            [::1]:49166            ESTABLISHED
+  TCP    [::1]:64146            [::1]:49161            TIME_WAIT
+  TCP    [::1]:64147            [::1]:49161            TIME_WAIT
+  TCP    [::1]:64148            [::1]:49166            ESTABLISHED
+  TCP    [::1]:64149            [::1]:49166            ESTABLISHED
+  UDP    0.0.0.0:53             *:*                    
+  UDP    0.0.0.0:500            *:*                    
+  UDP    0.0.0.0:3702           *:*                    
+  UDP    0.0.0.0:3702           *:*                    
+  UDP    0.0.0.0:3702           *:*                    
+  UDP    0.0.0.0:3702           *:*                    
+  UDP    0.0.0.0:4500           *:*                    
+  UDP    0.0.0.0:5004           *:*                    
+  UDP    0.0.0.0:5005           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5355           *:*                    
+  UDP    0.0.0.0:27036          *:*                    
+  UDP    0.0.0.0:49527          *:*                    
+  UDP    0.0.0.0:49529          *:*                    
+  UDP    0.0.0.0:49531          *:*                    
+  UDP    0.0.0.0:50724          *:*                    
+  UDP    0.0.0.0:50746          *:*                    
+  UDP    0.0.0.0:50748          *:*                    
+  UDP    0.0.0.0:56336          *:*                    
+  UDP    0.0.0.0:58013          *:*                    
+  UDP    0.0.0.0:59133          *:*                    
+  UDP    0.0.0.0:62281          *:*                    
+  UDP    0.0.0.0:62282          *:*                    
+  UDP    0.0.0.0:62285          *:*                    
+  UDP    0.0.0.0:64807          *:*                    
+  UDP    127.0.0.1:1900         *:*                    
+  UDP    127.0.0.1:44301        *:*                    
+  UDP    127.0.0.1:48200        *:*                    
+  UDP    127.0.0.1:48201        *:*                    
+  UDP    127.0.0.1:48202        *:*                    
+  UDP    127.0.0.1:48203        *:*                    
+  UDP    127.0.0.1:49533        *:*                    
+  UDP    127.0.0.1:49534        *:*                    
+  UDP    127.0.0.1:50725        *:*                    
+  UDP    127.0.0.1:50769        *:*                    
+  UDP    127.0.0.1:50770        *:*                    
+  UDP    127.0.0.1:50771        *:*                    
+  UDP    127.0.0.1:50772        *:*                    
+  UDP    127.0.0.1:50773        *:*                    
+  UDP    127.0.0.1:50774        *:*                    
+  UDP    127.0.0.1:57636        *:*                    
+  UDP    127.0.0.1:59134        *:*                    
+  UDP    127.0.0.1:59136        *:*                    
+  UDP    127.0.0.1:61308        *:*                    
+  UDP    127.0.0.1:61309        *:*                    
+  UDP    127.0.0.1:61310        *:*                    
+  UDP    127.0.0.1:61311        *:*                    
+  UDP    127.0.0.1:61312        *:*                    
+  UDP    127.0.0.1:61313        *:*                    
+  UDP    127.0.0.1:61314        *:*                    
+  UDP    127.0.0.1:61315        *:*                    
+  UDP    127.0.0.1:62283        *:*                    
+  UDP    127.0.0.1:62284        *:*                    
+  UDP    127.0.0.1:65000        *:*                    
+  UDP    192.168.1.6:137        *:*                    
+  UDP    192.168.1.6:138        *:*                    
+  UDP    192.168.1.6:1900       *:*                    
+  UDP    192.168.1.6:5353       *:*                    
+  UDP    192.168.1.6:5353       *:*                    
+  UDP    192.168.1.6:5353       *:*                    
+  UDP    192.168.1.6:50765      *:*                    
+  UDP    192.168.111.1:137      *:*                    
+  UDP    192.168.111.1:138      *:*                    
+  UDP    192.168.111.1:1900     *:*                    
+  UDP    192.168.111.1:5353     *:*                    
+  UDP    192.168.111.1:5353     *:*                    
+  UDP    192.168.111.1:5353     *:*                    
+  UDP    192.168.111.1:50768    *:*                    
+  UDP    192.168.136.1:137      *:*                    
+  UDP    192.168.136.1:138      *:*                    
+  UDP    192.168.136.1:1900     *:*                    
+  UDP    192.168.136.1:5353     *:*                    
+  UDP    192.168.136.1:5353     *:*                    
+  UDP    192.168.136.1:5353     *:*                    
+  UDP    192.168.136.1:50767    *:*                    
+  UDP    192.168.137.1:67       *:*                    
+  UDP    192.168.137.1:68       *:*                    
+  UDP    192.168.137.1:137      *:*                    
+  UDP    192.168.137.1:138      *:*                    
+  UDP    192.168.137.1:1900     *:*                    
+  UDP    192.168.137.1:5353     *:*                    
+  UDP    192.168.137.1:5353     *:*                    
+  UDP    192.168.137.1:5353     *:*                    
+  UDP    192.168.137.1:50766    *:*                    
+  UDP    [::]:500               *:*                    
+  UDP    [::]:547               *:*                    
+  UDP    [::]:3540              *:*                    
+  UDP    [::]:3702              *:*                    
+  UDP    [::]:3702              *:*                    
+  UDP    [::]:3702              *:*                    
+  UDP    [::]:3702              *:*                    
+  UDP    [::]:4500              *:*                    
+  UDP    [::]:5004              *:*                    
+  UDP    [::]:5005              *:*                    
+  UDP    [::]:5353              *:*                    
+  UDP    [::]:5353              *:*                    
+  UDP    [::]:5353              *:*                    
+  UDP    [::]:5353              *:*                    
+  UDP    [::]:5355              *:*                    
+  UDP    [::]:49528             *:*                    
+  UDP    [::]:49530             *:*                    
+  UDP    [::]:49532             *:*                    
+  UDP    [::]:50747             *:*                    
+  UDP    [::]:50749             *:*                    
+  UDP    [::]:58014             *:*                    
+  UDP    [::]:62286             *:*                    
+  UDP    [::]:64808             *:*                    
+  UDP    [::1]:1900             *:*                    
+  UDP    [::1]:5353             *:*                    
+  UDP    [::1]:5353             *:*                    
+  UDP    [::1]:5353             *:*                    
+  UDP    [::1]:50764            *:*                    
+  UDP    [fe80::10af:2a9a:ab7b:72d8%14]:1900  *:*                    
+  UDP    [fe80::10af:2a9a:ab7b:72d8%14]:50762  *:*                    
+  UDP    [fe80::684a:10ed:5ce9:7bb2%11]:1900  *:*                    
+  UDP    [fe80::684a:10ed:5ce9:7bb2%11]:50760  *:*                    
+  UDP    [fe80::6c89:33db:3543:159d%16]:1900  *:*                    
+  UDP    [fe80::6c89:33db:3543:159d%16]:50763  *:*                    
+  UDP    [fe80::80e0:cbff:870d:ce6%13]:53  *:*                    
+  UDP    [fe80::80e0:cbff:870d:ce6%13]:1900  *:*                    
+  UDP    [fe80::80e0:cbff:870d:ce6%13]:50761  *:*                    

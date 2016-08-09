@@ -1,0 +1,6 @@
+H:\RAT\RAT\bin\Debug\RAT.exe.config
+H:\RAT\RAT\bin\Debug\RAT.exe
+H:\RAT\RAT\bin\Debug\RAT.pdb
+H:\RAT\RAT\obj\Debug\RAT.csprojResolveAssemblyReference.cache
+H:\RAT\RAT\obj\Debug\RAT.exe
+H:\RAT\RAT\obj\Debug\RAT.pdb
